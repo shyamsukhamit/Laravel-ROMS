@@ -1,8 +1,8 @@
-# Laravel Order Management System (LOMS)
+# Laravel Restaurant Order Management System (LaravelROMS)
 
 ## About this application
 
-This application is created by MD INZAMUL HAQUE for INFORTECH Solutions. This is a simple order management system. 
+This application is created by MD INZAMUL HAQUE for INFORTECH Solutions. This is a simple restaurant order management system. 
 #### Framework: Laravel 5.3
 #### Language: PHP 5.7
 
@@ -41,6 +41,7 @@ in bottom of the page. Then go to /register by web browser. Fill the form.
 
 ## Features
 - Add order
+- Add products
 - Export Order (pdf, excel, csv and etc)
 - Edit / Delete Order
 - Search Order
@@ -50,7 +51,6 @@ in bottom of the page. Then go to /register by web browser. Fill the form.
 
 ## Uses
 * Restaurant Order
-* Facebook Commerce
 * etc...
 
 ### Contact me 
